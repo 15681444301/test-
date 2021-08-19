@@ -386,7 +386,7 @@ export default {
     content: "";
     display: block;
     width: 56rpx;
-    height: 3rpx;
+    height: 6rpx;
     background-color: rgba(255, 204, 51, 0.5);
     position: relative;
     top: -8rpx;
