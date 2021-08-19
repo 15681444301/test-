@@ -360,7 +360,7 @@ export default {
       position: absolute;
       left: 50%;
       top: 50%;
-      transform: translate(calc(-50% - 64rpx), calc(-50% - 2rpx));
+      transform: translate(calc(-50% - 115rpx), calc(-50% - 4rpx));
     }
   }
   image {
